@@ -49,4 +49,6 @@ table {
 
 /* My code */
 
-body {background: #F1D6FF;}
+body {
+	background-color: lightblue;
+  }
