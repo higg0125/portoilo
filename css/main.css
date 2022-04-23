@@ -47,39 +47,4 @@ table {
 	border-spacing: 0;
 }
 
-/*                                 My Code Below                            */
-
-body{
-    background-color: #F1D6FF
-}
-  
-  /* Header/Logo Title */
-
-  #logo {
-    text-align: top-center;
-    width: 100px;
-    height: 100px;
-    
-}
-  
-h1 {
-    font-family: Arial;
-    font-size: medium;
-    color: white;
-    text-align: center;
-  }  
-
-  .header-container-wrapper {
-    padding: 30px;
-    background:#803DA5;
-}
-
-  .header {
-    padding: 30px;
-    text-align: center;
-    background: #FFFFFF;
-    color: #591C7A;
-    font-size: 60px;
-  }
-
- 
+/* Muy code */
